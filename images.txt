@@ -8,5 +8,7 @@ infiniflow/infinity:v0.6.0-dev3
 #valkey/valkey:8
 #minio/minio
 
-milvusdb/milvus
-library/neo4j
+#milvusdb/milvus
+#library/neo4j
+
+dataease/sqlbot
