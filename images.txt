@@ -11,4 +11,7 @@ infiniflow/infinity:v0.6.0-dev3
 #milvusdb/milvus
 #library/neo4j
 
-dataease/sqlbot
+#dataease/sqlbot
+
+pgvector/pgvector:pg17
+
