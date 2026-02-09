@@ -15,4 +15,6 @@ infiniflow/infinity:v0.6.0-dev3
 
 #pgvector/pgvector:pg17
 
-dpage/pgadmin4
+#dpage/pgadmin4
+
+pgvector/pgvector:pg17
