@@ -17,4 +17,6 @@ infiniflow/infinity:v0.6.0-dev3
 
 #dpage/pgadmin4
 
-pgvector/pgvector:pg17
+#pgvector/pgvector:pg17
+
+shuiche/mind-map
