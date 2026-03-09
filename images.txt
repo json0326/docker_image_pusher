@@ -7,16 +7,12 @@ infiniflow/infinity:v0.6.0-dev3
 #redis:6
 #valkey/valkey:8
 #minio/minio
-
 #milvusdb/milvus
 #library/neo4j
-
 #dataease/sqlbot
-
 #pgvector/pgvector:pg17
-
 #dpage/pgadmin4
-
 #pgvector/pgvector:pg17
+#shuiche/mind-map
 
-shuiche/mind-map
+ollama/ollama
