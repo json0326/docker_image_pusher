@@ -15,4 +15,12 @@ infiniflow/infinity:v0.6.0-dev3
 #pgvector/pgvector:pg17
 #shuiche/mind-map
 
-ollama/ollama
+#ollama/ollama
+
+postgres:15-alpine
+mysql:8.0
+redis:6-alpine
+langgenius/dify-sandbox:0.2.14
+langgenius/dify-plugin-daemon:0.5.3-local
+ubuntu/squid:latest
+semitechnologies/weaviate:1.27.0
