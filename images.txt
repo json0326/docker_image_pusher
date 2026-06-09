@@ -1,1 +1,1 @@
-zeroc/ice:3.6
+mongo:6.0
